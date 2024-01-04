@@ -1,0 +1,39 @@
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css);
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #242424;
+}
+
+:root {
+  font-family: 'Raleway', sans-serif;
+  color: #242424;
+}
+
+img {
+  width: 100%;
+  margin: 0 auto;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+}
+
+h1,
+h2 {
+  text-align: center;
+}
+
+i {
+  color: #555555;
+  font-size: 1.5rem;
+  margin-right: .5rem;
+}
